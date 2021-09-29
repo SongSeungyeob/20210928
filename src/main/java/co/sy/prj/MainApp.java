@@ -14,6 +14,7 @@ public class MainApp {
 //		bird.run();
 //		bird.sleep();
 		
+		
 		Friend schoolFriend = new SchoolFriend();
 		schoolFriend.name = "ȫ�浿";
 		schoolFriend.tel = "010-1111-1111";
